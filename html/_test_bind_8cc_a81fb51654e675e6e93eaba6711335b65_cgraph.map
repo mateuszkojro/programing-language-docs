@@ -1,6 +1,4 @@
 <map id="TEST_CASE" name="TEST_CASE">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,100,61"/>
-<area shape="rect" id="node2" href="$class_bind_def.html#ac0e815765f499c51ca375cb7cb14647c" title=" " alt="" coords="163,5,280,32"/>
-<area shape="rect" id="node3" href="$namespace_catch_1_1_generators.html#a3b2efc97978cf37951b75394aae1a3fb" title=" " alt="" coords="148,57,295,98"/>
-<area shape="rect" id="node4" href="$namespace_catch_1_1_generators_1_1pf.html#a015e8fcef2972da878a07023e40d46d8" title=" " alt="" coords="343,57,489,98"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$class_bind_def.html#ac0e815765f499c51ca375cb7cb14647c" title=" " alt="" coords="148,5,265,32"/>
 </map>

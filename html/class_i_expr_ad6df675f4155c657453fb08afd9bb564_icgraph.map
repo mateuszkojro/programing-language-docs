@@ -1,4 +1,0 @@
-<map id="IExpr::eval" name="IExpr::eval">
-<area shape="rect" id="node1" title="Evaluate expression." alt="" coords="163,5,253,32"/>
-<area shape="rect" id="node2" href="$class_bind_def.html#ae1c79ef448dd30c6b0f185db5cf44ddd" title="Evaluation of Binding stores te value of the binding in current scope and return the evaluated value." alt="" coords="5,5,115,32"/>
-</map>

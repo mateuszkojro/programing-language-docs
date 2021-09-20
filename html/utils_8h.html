@@ -101,12 +101,14 @@ $(document).ready(function(){initNavTree('utils_8h.html',''); initResizable(); }
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for utils.h:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="utils_8h__incl.svg" width="100%" height="384"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="utils_8h__incl.svg" width="100%" height="384"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 </div>
 </div><div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="utils_8h__dep__incl.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="utils_8h__dep__incl.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 </div>
 </div>
 <p><a href="utils_8h_source.html">Go to the source code of this file.</a></p>
@@ -132,7 +134,7 @@ Macros</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:a6df5fddafc6bf81fd44924791dcbacdc"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="utils_8h.html#a6df5fddafc6bf81fd44924791dcbacdc">Str2</a> = std::pair&lt; <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a>, <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a> &gt;</td></tr>
+<tr class="memitem:a6df5fddafc6bf81fd44924791dcbacdc"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="utils_8h.html#a6df5fddafc6bf81fd44924791dcbacdc">Str2</a> = std::pair&lt; string, string &gt;</td></tr>
 <tr class="separator:a6df5fddafc6bf81fd44924791dcbacdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
@@ -167,7 +169,7 @@ Typedefs</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">  <a class="code" href="namespace_catch.html#a0179d453617ba2296f2baa99a49e7264">std::cout</a> &lt;&lt; std::endl                                                       \</div>
+<b>Value:</b><div class="fragment"><div class="line">  std::cout &lt;&lt; std::endl                                                       \</div>
 <div class="line">            &lt;&lt; debug_header(<span class="stringliteral">&quot;=== DEPR ===&quot;</span>, __FILE__, __FUNCTION__, __LINE__)  \</div>
 <div class="line">            &lt;&lt; (<a class="code" href="utils_8h.html#a05fca9b0c0b9077f9a78ce13ec7ff05e">msg</a>) &lt;&lt; std::endl                                              \</div>
 <div class="line">            &lt;&lt; std::endl</div>
@@ -201,8 +203,8 @@ Typedefs</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">  <span class="keywordflow">do</span> {                                                                         <a class="code" href="namespace_catch.html#a54c1ce08041448d684ae8edc14162cd2">\</a></div>
-<div class="line"><a class="code" href="namespace_catch.html#a54c1ce08041448d684ae8edc14162cd2">	std::cerr</a> &lt;&lt; (message) &lt;&lt; (<a class="code" href="namespace_catch_1_1_generators.html#a3b2efc97978cf37951b75394aae1a3fb">value</a>) &lt;&lt; std::endl;                            \</div>
+<b>Value:</b><div class="fragment"><div class="line">  <span class="keywordflow">do</span> {                                                                         \</div>
+<div class="line">    std::cerr &lt;&lt; (message) &lt;&lt; (value) &lt;&lt; std::endl;                            \</div>
 <div class="line">    std::exit(1);                                                              \</div>
 <div class="line">  } <span class="keywordflow">while</span> (<span class="keyword">false</span>)</div>
 </div><!-- fragment -->
@@ -225,8 +227,8 @@ Typedefs</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">  <span class="keywordflow">do</span> {                                                                         <a class="code" href="namespace_catch.html#a54c1ce08041448d684ae8edc14162cd2">\</a></div>
-<div class="line"><a class="code" href="namespace_catch.html#a54c1ce08041448d684ae8edc14162cd2">	std::cerr</a> &lt;&lt; (message) &lt;&lt; std::endl;                                       \</div>
+<b>Value:</b><div class="fragment"><div class="line">  <span class="keywordflow">do</span> {                                                                         \</div>
+<div class="line">    std::cerr &lt;&lt; (message) &lt;&lt; std::endl;                                       \</div>
 <div class="line">    std::exit(1);                                                              \</div>
 <div class="line">  } <span class="keywordflow">while</span> (<span class="keyword">false</span>)</div>
 </div><!-- fragment -->
@@ -249,7 +251,7 @@ Typedefs</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">  <a class="code" href="namespace_catch.html#a0179d453617ba2296f2baa99a49e7264">std::cout</a> &lt;&lt; std::endl                                                       \</div>
+<b>Value:</b><div class="fragment"><div class="line">  std::cout &lt;&lt; std::endl                                                       \</div>
 <div class="line">            &lt;&lt; debug_header(<span class="stringliteral">&quot;=== FIXME ===&quot;</span>, __FILE__, __FUNCTION__, __LINE__) \</div>
 <div class="line">            &lt;&lt; (<a class="code" href="utils_8h.html#a05fca9b0c0b9077f9a78ce13ec7ff05e">msg</a>) &lt;&lt; std::endl                                              \</div>
 <div class="line">            &lt;&lt; std::endl</div>
@@ -313,7 +315,7 @@ Typedefs</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">  <a class="code" href="namespace_catch.html#a0179d453617ba2296f2baa99a49e7264">std::cout</a> &lt;&lt; std::endl                                                       \</div>
+<b>Value:</b><div class="fragment"><div class="line">  std::cout &lt;&lt; std::endl                                                       \</div>
 <div class="line">            &lt;&lt; debug_header(<span class="stringliteral">&quot;=== WARNING ===&quot;</span>, __FILE__, __FUNCTION__,         \</div>
 <div class="line">                            __LINE__)                                          \</div>
 <div class="line">            &lt;&lt; (<a class="code" href="utils_8h.html#a05fca9b0c0b9077f9a78ce13ec7ff05e">msg</a>) &lt;&lt; std::endl                                              \</div>
@@ -331,7 +333,7 @@ Typedefs</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="utils_8h.html#a6df5fddafc6bf81fd44924791dcbacdc">Str2</a> =  std::pair&lt;<a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a>, <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a>&gt;</td>
+          <td class="memname">using <a class="el" href="utils_8h.html#a6df5fddafc6bf81fd44924791dcbacdc">Str2</a> =  std::pair&lt;string, string&gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -343,9 +345,6 @@ Typedefs</h2></td></tr>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <div class="ttc" id="autils_8h_html_a05fca9b0c0b9077f9a78ce13ec7ff05e"><div class="ttname"><a href="utils_8h.html#a05fca9b0c0b9077f9a78ce13ec7ff05e">msg</a></div><div class="ttdeci">#define msg(var)</div><div class="ttdef"><b>Definition:</b> <a href="utils_8h_source.html#l00018">utils.h:18</a></div></div>
-<div class="ttc" id="anamespace_catch_html_a0179d453617ba2296f2baa99a49e7264"><div class="ttname"><a href="namespace_catch.html#a0179d453617ba2296f2baa99a49e7264">Catch::cout</a></div><div class="ttdeci">std::ostream &amp; cout()</div><div class="ttdef"><b>Definition:</b> <a href="231-_cfg-_output_streams_8cpp_source.html#l00040">231-Cfg-OutputStreams.cpp:40</a></div></div>
-<div class="ttc" id="anamespace_catch_1_1_generators_html_a3b2efc97978cf37951b75394aae1a3fb"><div class="ttname"><a href="namespace_catch_1_1_generators.html#a3b2efc97978cf37951b75394aae1a3fb">Catch::Generators::value</a></div><div class="ttdeci">GeneratorWrapper&lt; T &gt; value(T &amp;&amp;value)</div><div class="ttdef"><b>Definition:</b> <a href="catch__generators_8hpp_source.html#l00106">catch_generators.hpp:106</a></div></div>
-<div class="ttc" id="anamespace_catch_html_a54c1ce08041448d684ae8edc14162cd2"><div class="ttname"><a href="namespace_catch.html#a54c1ce08041448d684ae8edc14162cd2">Catch::cerr</a></div><div class="ttdeci">std::ostream &amp; cerr()</div><div class="ttdef"><b>Definition:</b> <a href="231-_cfg-_output_streams_8cpp_source.html#l00048">231-Cfg-OutputStreams.cpp:48</a></div></div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>

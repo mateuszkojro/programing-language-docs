@@ -99,12 +99,14 @@ $(document).ready(function(){initNavTree('class_block.html',''); initResizable()
 <div class="dynheader">
 Inheritance diagram for Block:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_block__inherit__graph.svg" width="135" height="375"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_block__inherit__graph.svg" width="135" height="375"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <div class="dynheader">
 Collaboration diagram for Block:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_block__coll__graph.svg" width="135" height="375"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_block__coll__graph.svg" width="135" height="375"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -115,7 +117,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ab9157e4f3718be0fbf96fc7688aca03f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8e35c9089e806962b83bca4e5e288142"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_block.html#a8e35c9089e806962b83bca4e5e288142">~Block</a> () override</td></tr>
 <tr class="separator:a8e35c9089e806962b83bca4e5e288142"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1e977192ac764e320c32806ef0db3572"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classbool.html">bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_block.html#a1e977192ac764e320c32806ef0db3572">operator==</a> (const <a class="el" href="class_block.html">Block</a> &amp;other) const</td></tr>
+<tr class="memitem:a1e977192ac764e320c32806ef0db3572"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_block.html#a1e977192ac764e320c32806ef0db3572">operator==</a> (const <a class="el" href="class_block.html">Block</a> &amp;other) const</td></tr>
 <tr class="separator:a1e977192ac764e320c32806ef0db3572"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6410fa3655af7eb5ee7e1d474745d40f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_i_value.html">IValue</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_block.html#a6410fa3655af7eb5ee7e1d474745d40f">eval</a> (<a class="el" href="class_env.html">Env</a> &amp;env) override</td></tr>
 <tr class="memdesc:a6410fa3655af7eb5ee7e1d474745d40f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Evaluates all statment in block in current scope.  <a href="class_block.html#a6410fa3655af7eb5ee7e1d474745d40f">More...</a><br /></td></tr>
@@ -130,19 +132,19 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:ab8c3dea4f20c24e2ae57ed60fd1949a9"><td class="memItemLeft" align="right" valign="top">static optional&lt; pair&lt; <a class="el" href="class_block.html">Block</a> *, <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_block.html#ab8c3dea4f20c24e2ae57ed60fd1949a9">parse</a> (const <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a> &amp;text)</td></tr>
+<tr class="memitem:ab8c3dea4f20c24e2ae57ed60fd1949a9"><td class="memItemLeft" align="right" valign="top">static optional&lt; pair&lt; <a class="el" href="class_block.html">Block</a> *, string &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_block.html#ab8c3dea4f20c24e2ae57ed60fd1949a9">parse</a> (const string &amp;text)</td></tr>
 <tr class="separator:ab8c3dea4f20c24e2ae57ed60fd1949a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a28323c5fa692f9d75d29e53ca290e2a3"><td class="memItemLeft" align="right" valign="top">static optional&lt; pair&lt; <a class="el" href="class_block.html">Block</a>, <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_block.html#a28323c5fa692f9d75d29e53ca290e2a3">Parse</a> (const <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a> &amp;text)</td></tr>
+<tr class="memitem:a28323c5fa692f9d75d29e53ca290e2a3"><td class="memItemLeft" align="right" valign="top">static optional&lt; pair&lt; <a class="el" href="class_block.html">Block</a>, string &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_block.html#a28323c5fa692f9d75d29e53ca290e2a3">Parse</a> (const string &amp;text)</td></tr>
 <tr class="separator:a28323c5fa692f9d75d29e53ca290e2a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_static_methods_class_i_statment"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_class_i_statment')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="class_i_statment.html">IStatment</a></td></tr>
-<tr class="memitem:a7d23bb783b6c3b3c4465f9218987b2bc inherit pub_static_methods_class_i_statment"><td class="memItemLeft" align="right" valign="top">static optional&lt; pair&lt; <a class="el" href="class_i_statment.html">IStatment</a> *, <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_i_statment.html#a7d23bb783b6c3b3c4465f9218987b2bc">parse</a> (const <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a> &amp;str)</td></tr>
+<tr class="memitem:a7d23bb783b6c3b3c4465f9218987b2bc inherit pub_static_methods_class_i_statment"><td class="memItemLeft" align="right" valign="top">static optional&lt; pair&lt; <a class="el" href="class_i_statment.html">IStatment</a> *, string &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_i_statment.html#a7d23bb783b6c3b3c4465f9218987b2bc">parse</a> (const string &amp;str)</td></tr>
 <tr class="separator:a7d23bb783b6c3b3c4465f9218987b2bc inherit pub_static_methods_class_i_statment"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Code blocks - scopes Always evaluate to the last statment in them for example: </p>
 <div class="fragment"><div class="line">{1 2 4}</div>
 </div><!-- fragment --><p> evaluates to 4</p>
-<p>Blocs can be ussd both as a separate construct: </p><div class="fragment"><div class="line"><a class="code" href="compact_8sw_8approved_8txt.html#aacf03b51aca9bbafe2bc2dec3ee903ea">x</a> = { mat <a class="code" href="compact_8sw_8approved_8txt.html#aacf03b51aca9bbafe2bc2dec3ee903ea">x</a> = 0 <a class="code" href="compact_8sw_8approved_8txt.html#aacf03b51aca9bbafe2bc2dec3ee903ea">x</a> }</div>
+<p>Blocs can be ussd both as a separate construct: </p><div class="fragment"><div class="line">x = { mat x = 0 x }</div>
 </div><!-- fragment --><p> and part of other language constructs (if statments, while loops, function definitions) </p><div class="fragment"><div class="line"><span class="keywordflow">if</span> (1) {10}</div>
 </div><!-- fragment --> 
 <p class="definition">Definition at line <a class="el" href="_block_8h_source.html#l00035">35</a> of file <a class="el" href="_block_8h_source.html">Block.h</a>.</p>
@@ -175,7 +177,8 @@ Static Public Member Functions</h2></td></tr>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_ac34ad609561d1d3da0e20b1cd2adb6e0_icgraph.svg" width="263" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_ac34ad609561d1d3da0e20b1cd2adb6e0_icgraph.svg" width="263" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>
@@ -265,7 +268,8 @@ Here is the caller graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_aae0fb5718b742535e617f075d7bde337_cgraph.svg" width="263" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_aae0fb5718b742535e617f075d7bde337_cgraph.svg" width="263" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>
@@ -309,12 +313,14 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_a6410fa3655af7eb5ee7e1d474745d40f_cgraph.svg" width="326" height="139"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_a6410fa3655af7eb5ee7e1d474745d40f_cgraph.svg" width="456" height="190"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_a6410fa3655af7eb5ee7e1d474745d40f_icgraph.svg" width="296" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_a6410fa3655af7eb5ee7e1d474745d40f_icgraph.svg" width="296" height="88"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>
@@ -326,7 +332,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classbool.html">bool</a> Block::operator== </td>
+          <td class="memname">bool Block::operator== </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="class_block.html">Block</a> &amp;&#160;</td>
           <td class="paramname"><em>other</em></td><td>)</td>
@@ -339,7 +345,8 @@ Here is the caller graph for this function:</div>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_a1e977192ac764e320c32806ef0db3572_cgraph.svg" width="516" height="139"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_a1e977192ac764e320c32806ef0db3572_cgraph.svg" width="647" height="190"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>
@@ -354,9 +361,9 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">optional&lt; pair&lt; <a class="el" href="class_block.html">Block</a> *, <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a> &gt; &gt; Block::parse </td>
+          <td class="memname">optional&lt; pair&lt; <a class="el" href="class_block.html">Block</a> *, string &gt; &gt; Block::parse </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a> &amp;&#160;</td>
+          <td class="paramtype">const string &amp;&#160;</td>
           <td class="paramname"><em>text</em></td><td>)</td>
           <td></td>
         </tr>
@@ -369,6 +376,12 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="_block_8cc_source.html#l00009">9</a> of file <a class="el" href="_block_8cc_source.html">Block.cc</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_ab8c3dea4f20c24e2ae57ed60fd1949a9_icgraph.svg" width="406" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
 
 </div>
 </div>
@@ -382,9 +395,9 @@ Here is the call graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">optional&lt; pair&lt; <a class="el" href="class_block.html">Block</a>, <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a> &gt; &gt; Block::Parse </td>
+          <td class="memname">optional&lt; pair&lt; <a class="el" href="class_block.html">Block</a>, string &gt; &gt; Block::Parse </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="xml_8sw_8approved_8txt.html#a2e2fda4e4b85f6bfca9584e2b5e03a0a">string</a> &amp;&#160;</td>
+          <td class="paramtype">const string &amp;&#160;</td>
           <td class="paramname"><em>text</em></td><td>)</td>
           <td></td>
         </tr>
@@ -399,9 +412,16 @@ Here is the call graph for this function:</div>
 
 <p class="definition">Definition at line <a class="el" href="_block_8cc_source.html#l00042">42</a> of file <a class="el" href="_block_8cc_source.html">Block.cc</a>.</p>
 <div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_a28323c5fa692f9d75d29e53ca290e2a3_cgraph.svg" width="263" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+<div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_a28323c5fa692f9d75d29e53ca290e2a3_icgraph.svg" width="255" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_block_a28323c5fa692f9d75d29e53ca290e2a3_icgraph.svg" width="255" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>
@@ -412,7 +432,6 @@ Here is the caller graph for this function:</div>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
-<div class="ttc" id="acompact_8sw_8approved_8txt_html_aacf03b51aca9bbafe2bc2dec3ee903ea"><div class="ttname"><a href="compact_8sw_8approved_8txt.html#aacf03b51aca9bbafe2bc2dec3ee903ea">x</a></div><div class="ttdeci">CmdLine tests break a x</div><div class="ttdef"><b>Definition:</b> <a href="compact_8sw_8approved_8txt_source.html#l01161">compact.sw.approved.txt:1161</a></div></div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>

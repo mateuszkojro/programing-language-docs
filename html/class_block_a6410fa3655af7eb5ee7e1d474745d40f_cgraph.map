@@ -1,6 +1,8 @@
 <map id="Block::eval" name="Block::eval">
-<area shape="rect" id="node1" title="Evaluates all statment in block in current scope." alt="" coords="5,56,100,83"/>
-<area shape="rect" id="node2" href="$class_env.html#a58005057bcfc4f85383cc5ee5fd1111a" title="Get value coresponding to variable name." alt="" coords="148,5,320,32"/>
-<area shape="rect" id="node3" href="$class_env.html#a15fcb12407211fcd32c5b1030f1fd605" title="Get a mutable reference to variable bindings." alt="" coords="166,56,302,83"/>
-<area shape="rect" id="node4" href="$class_env.html#ae215959a3872c8b6816222bb1634b31e" title="Store variable name with coresponding value." alt="" coords="163,107,305,133"/>
+<area shape="rect" id="node1" title="Evaluates all statment in block in current scope." alt="" coords="5,81,100,108"/>
+<area shape="rect" id="node2" href="$class_null.html#a7e65721f07e1c319495f82439f98dab6" title="Function uesed to evaluate statment in the scope." alt="" coords="192,5,276,32"/>
+<area shape="rect" id="node4" href="$class_env.html#a58005057bcfc4f85383cc5ee5fd1111a" title="Get value coresponding to variable name." alt="" coords="148,56,320,83"/>
+<area shape="rect" id="node5" href="$class_env.html#a15fcb12407211fcd32c5b1030f1fd605" title="Get a mutable reference to variable bindings." alt="" coords="166,107,302,133"/>
+<area shape="rect" id="node6" href="$class_env.html#ae215959a3872c8b6816222bb1634b31e" title="Store variable name with coresponding value." alt="" coords="163,157,305,184"/>
+<area shape="rect" id="node3" href="$class_null.html#aa3dfdc54d6066a4afda114d09f9245be" title=" " alt="" coords="368,5,451,32"/>
 </map>

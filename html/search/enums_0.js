@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['bits_4539',['Bits',['../namespace_enum_bit_field_tests.html#a14341e127cf33ad4602b47114ea5fe52',1,'EnumBitFieldTests']]]
+  ['type_271',['Type',['../class_i_value.html#a4adc7653d198835da70aa346ce16ceee',1,'IValue::Type()'],['../class_operator.html#adf562143104191264da67b4e6e1a1644',1,'Operator::Type()']]]
 ];

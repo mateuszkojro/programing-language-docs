@@ -1,7 +1,0 @@
-<map id="Catch::Generators::GeneratorTracker::close" name="Catch::Generators::GeneratorTracker::close">
-<area shape="rect" id="node1" title=" " alt="" coords="5,104,180,145"/>
-<area shape="rect" id="node2" href="$class_catch_1_1_test_case_tracking_1_1_i_tracker.html#a91af0a3bcb13a76cb665d75329d30458" title=" " alt="" coords="245,5,438,47"/>
-<area shape="rect" id="node3" href="$class_catch_1_1_test_case_tracking_1_1_i_tracker.html#a65be4d356a4f8ae5672f6434c036d3db" title=" " alt="" coords="252,71,431,112"/>
-<area shape="rect" id="node4" href="$class_catch_1_1_test_case_tracking_1_1_tracker_base.html#a9ba6dc47eee2715654476763cdbc1994" title=" " alt="" coords="252,136,431,177"/>
-<area shape="rect" id="node5" href="$class_catch_1_1_test_case_tracking_1_1_section_tracker.html#af4042edc9deb53863d75d306389d00de" title="Returns whitespace&#45;trimmed name of the tracked section." alt="" coords="228,201,455,243"/>
-</map>
