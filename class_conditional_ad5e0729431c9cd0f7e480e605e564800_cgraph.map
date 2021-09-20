@@ -1,8 +1,0 @@
-<map id="Conditional::eval" name="Conditional::eval">
-<area shape="rect" id="node1" title="Evaluates all the statments in either true or false block depending on evaluation of condition (all i..." alt="" coords="5,31,137,57"/>
-<area shape="rect" id="node2" href="$class_i_statment.html#a025b03bf014221e27a23db0f0356120e" title="Function uesed to evaluate statment in the scope." alt="" coords="185,5,308,32"/>
-<area shape="rect" id="node3" href="$class_block.html#a6410fa3655af7eb5ee7e1d474745d40f" title="Evaluates all statment in block in current scope." alt="" coords="199,56,294,83"/>
-<area shape="rect" id="node4" href="$class_env.html#a58005057bcfc4f85383cc5ee5fd1111a" title="Get value coresponding to variable name." alt="" coords="356,5,528,32"/>
-<area shape="rect" id="node5" href="$class_env.html#ac8bc6251f16cee8273ecb00df27da0ba" title="Get a mutable reference to variable bindings." alt="" coords="374,56,510,83"/>
-<area shape="rect" id="node6" href="$class_env.html#ae215959a3872c8b6816222bb1634b31e" title="Store variable name with coresponding value." alt="" coords="371,107,513,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Block::eval" name="Block::eval">
-<area shape="rect" id="node1" title="Evaluates all statment in block in current scope." alt="" coords="5,56,100,83"/>
-<area shape="rect" id="node2" href="$class_env.html#a58005057bcfc4f85383cc5ee5fd1111a" title="Get value coresponding to variable name." alt="" coords="148,5,320,32"/>
-<area shape="rect" id="node3" href="$class_env.html#ac8bc6251f16cee8273ecb00df27da0ba" title="Get a mutable reference to variable bindings." alt="" coords="166,56,302,83"/>
-<area shape="rect" id="node4" href="$class_env.html#ae215959a3872c8b6816222bb1634b31e" title="Store variable name with coresponding value." alt="" coords="163,107,305,133"/>
-</map>

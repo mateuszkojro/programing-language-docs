@@ -1,5 +1,0 @@
-<map id="ExprVariable" name="ExprVariable">
-<area shape="rect" id="node1" title="Usage of existing variable." alt="" coords="5,359,145,495"/>
-<area shape="rect" id="node2" href="$class_i_expr.html" title="IExpr Base class for expressions." alt="" coords="30,175,121,311"/>
-<area shape="rect" id="node3" href="$class_i_statment.html" title="Base class for all possible statments in the language." alt="" coords="14,5,137,127"/>
-</map>

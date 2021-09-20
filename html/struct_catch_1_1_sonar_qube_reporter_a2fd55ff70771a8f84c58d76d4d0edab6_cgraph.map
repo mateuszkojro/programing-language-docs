@@ -1,0 +1,12 @@
+<map id="Catch::SonarQubeReporter::writeTestFile" name="Catch::SonarQubeReporter::writeTestFile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,108,200,149"/>
+<area shape="rect" id="node2" href="$class_catch_1_1_xml_writer.html#ad2fbf17f0dc39443b2db8ab614f4c625" title=" " alt="" coords="755,5,942,47"/>
+<area shape="rect" id="node5" href="$class_catch_1_1_xml_writer.html#ad433310b59d30e0fedc7130dc11c563b" title=" " alt="" coords="733,189,964,215"/>
+<area shape="rect" id="node6" href="$struct_catch_1_1_sonar_qube_reporter.html#a28756eaa7e0bb22a8fdb6a66bf655f7a" title=" " alt="" coords="248,108,443,149"/>
+<area shape="rect" id="node3" href="$class_catch_1_1_xml_writer.html#a5e5190bcb1f47a76ddca863591a6cc00" title=" " alt="" coords="1012,13,1237,39"/>
+<area shape="rect" id="node4" href="$class_catch_1_1_xml_writer.html#aba98703d9852416e237de82aed4a9c4f" title=" " alt="" coords="1285,5,1471,47"/>
+<area shape="rect" id="node7" href="$struct_catch_1_1_sonar_qube_reporter.html#a6c3bf02bc36f29c9f58ac8261d903f53" title=" " alt="" coords="491,108,685,149"/>
+<area shape="rect" id="node8" href="$namespace_catch.html#aea28035c2fa625ced568c1765e82a3bc" title="Returns a new string without whitespace at the start/end." alt="" coords="801,71,896,98"/>
+<area shape="rect" id="node9" href="$struct_catch_1_1_sonar_qube_reporter.html#ad7d49dcd6e1e753355b1a824b4805d98" title=" " alt="" coords="751,123,946,164"/>
+<area shape="rect" id="node10" href="$struct_catch_1_1_sonar_qube_reporter.html#a2e1771b233b45046c64e95fc0ea1ee49" title=" " alt="" coords="1027,123,1222,164"/>
+</map>

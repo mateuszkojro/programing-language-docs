@@ -1,0 +1,37 @@
+<map id="Catch::Detail::stringify" name="Catch::Detail::stringify">
+<area shape="rect" id="node1" title=" " alt="" coords="903,937,1069,963"/>
+<area shape="rect" id="node2" href="$class_catch_1_1_capturer.html#a60d08e6db2e54740bb2298bbbec3bc0b" title=" " alt="" coords="653,5,833,47"/>
+<area shape="rect" id="node3" href="$_enum_to_string_8tests_8cpp.html#ae02ba9459cf998d87048c6081c930f3b" title=" " alt="" coords="651,71,834,98"/>
+<area shape="rect" id="node4" href="$struct_catch_1_1_string_maker_3_01char_01_5_01_4.html#a6f0642657bcd943dadfb3be075095e26" title=" " alt="" coords="669,123,817,164"/>
+<area shape="rect" id="node5" href="$struct_catch_1_1_string_maker_3_01std_1_1wstring_01_4.html#a55f3d9d74f1d4f330fd94b7f04c7d03f" title=" " alt="" coords="650,188,835,229"/>
+<area shape="rect" id="node6" href="$struct_catch_1_1_string_maker_3_01wchar__t_01_5_01_4.html#a115c02e329e190323caf6a4060fc40dd" title=" " alt="" coords="657,253,828,295"/>
+<area shape="rect" id="node7" href="$struct_catch_1_1_string_maker_3_01int_01_4.html#a7c8dcbc9707d05e142e238fa63f47e6c" title=" " alt="" coords="670,319,815,360"/>
+<area shape="rect" id="node8" href="$struct_catch_1_1_string_maker_3_01long_01_4.html#afb6df3c162b80d773664ca72b8d0fdd5" title=" " alt="" coords="670,384,815,425"/>
+<area shape="rect" id="node9" href="$struct_catch_1_1_string_maker_3_01unsigned_01int_01_4.html#a3c768c31d25748530195c550503e50aa" title=" " alt="" coords="648,449,837,491"/>
+<area shape="rect" id="node10" href="$struct_catch_1_1_string_maker_3_01unsigned_01long_01_4.html#a4e1dec069109650ea875cf47021641d5" title=" " alt="" coords="643,515,843,556"/>
+<area shape="rect" id="node11" href="$struct_catch_1_1_string_maker_3_01char_01_4.html#abe708b15d367fcc1788a38ebf9889e39" title=" " alt="" coords="670,580,815,621"/>
+<area shape="rect" id="node12" href="$struct_catch_1_1_string_maker_3_01signed_01char_01_4.html#a6ffc7a8c54fb0781a32eec41e989f933" title=" " alt="" coords="651,645,835,687"/>
+<area shape="rect" id="node13" href="$struct_catch_1_1_string_maker_3_01unsigned_01char_01_4.html#af5c4365c5bcb622c77020ec48e31e857" title=" " alt="" coords="643,711,843,752"/>
+<area shape="rect" id="node14" href="$struct_catch_1_1_string_maker_3_01char_0f_s_z_0e_4.html#a095e415534f9145300271befe9853357" title=" " alt="" coords="663,776,823,817"/>
+<area shape="rect" id="node15" href="$struct_catch_1_1_string_maker_3_01signed_01char_0f_s_z_0e_4.html#a23ac689cc79dbcfe9b1765fe9e25690e" title=" " alt="" coords="663,842,822,898"/>
+<area shape="rect" id="node16" href="$struct_catch_1_1_string_maker_3_01unsigned_01char_0f_s_z_0e_4.html#a590d64c72b0cc75c113f1eea95d52b66" title=" " alt="" coords="659,922,826,978"/>
+<area shape="rect" id="node17" href="$namespace_catch_1_1_detail.html#a242396de537c5176710d680cc9ca6b93" title=" " alt="" coords="631,1003,855,1044"/>
+<area shape="rect" id="node19" href="$struct_catch_1_1_matchers_1_1_floating_1_1_within_abs_matcher.html#a206a738680f8767af31d3f1835afff3f" title=" " alt="" coords="637,1068,849,1109"/>
+<area shape="rect" id="node20" href="$struct_catch_1_1_matchers_1_1_std_string_1_1_regex_matcher.html#a1f788cd5258c987e5043f6c7f43adeb9" title=" " alt="" coords="645,1133,840,1175"/>
+<area shape="rect" id="node21" href="$struct_catch_1_1_matchers_1_1_vector_1_1_contains_element_matcher.html#a4bcd9a471271ed4dadf5db7987baeeaa" title=" " alt="" coords="645,1199,840,1255"/>
+<area shape="rect" id="node22" href="$struct_catch_1_1_matchers_1_1_vector_1_1_contains_matcher.html#aa8ba33f6de86d0198b77023e1808933b" title=" " alt="" coords="641,1280,844,1321"/>
+<area shape="rect" id="node23" href="$struct_catch_1_1_matchers_1_1_vector_1_1_equals_matcher.html#a398b5cc80200b3b45922c36bddcb4b37" title=" " alt="" coords="648,1345,837,1387"/>
+<area shape="rect" id="node24" href="$struct_catch_1_1_matchers_1_1_vector_1_1_approx_matcher.html#a760b0d1922d53b7ec327ac7418681c3f" title=" " alt="" coords="647,1411,839,1452"/>
+<area shape="rect" id="node25" href="$struct_catch_1_1_matchers_1_1_vector_1_1_unordered_equals_matcher.html#a33b685a1505a0afe06ded7e0d207bc14" title=" " alt="" coords="645,1477,840,1533"/>
+<area shape="rect" id="node26" href="$namespace_catch.html#ac2542a1569e5b9dc72206347368a921e" title=" " alt="" coords="683,1557,803,1583"/>
+<area shape="rect" id="node28" href="$namespace_catch_1_1_detail.html#ac954cf158347a76a5b0c3f4fa9a9fa52" title=" " alt="" coords="641,1607,844,1634"/>
+<area shape="rect" id="node29" href="$namespace_catch.html#ae162dc66b7767a52e7e4283915fd3d9f" title=" " alt="" coords="665,1658,821,1685"/>
+<area shape="rect" id="node33" href="$class_catch_1_1_match_expr.html#ad3e41adb597750b2219bb37e51185629" title=" " alt="" coords="647,1709,838,1751"/>
+<area shape="rect" id="node34" href="$_to_string_8tests_8cpp.html#a97a4721fbe2edba8897877a73e625057" title=" " alt="" coords="695,1775,790,1802"/>
+<area shape="rect" id="node35" href="$class_catch_1_1_detail_1_1_approx.html#a972fd9ac60607483263f1b0f0f9955e6" title=" " alt="" coords="663,1827,823,1868"/>
+<area shape="rect" id="node18" href="$namespace_catch_1_1_detail.html#af5310e4687d8c000e7911b91164756e6" title=" " alt="" coords="328,1010,583,1037"/>
+<area shape="rect" id="node27" href="$namespace_catch.html#a8267f077fd7ddf88bb182e8b9ead85d3" title=" " alt="" coords="412,1557,499,1583"/>
+<area shape="rect" id="node30" href="$namespace_catch.html#af13494e925a793e3e7143c6ce6f442c2" title=" " alt="" coords="377,1658,533,1685"/>
+<area shape="rect" id="node31" href="$struct_catch_1_1_string_maker_3_01_r_00_01typename_01std_1_1enable__if_3_01is__range_3_01_r_01_4536d8fedfff6d62432b3dc59b56e1380.html#ac6088db00103a7482fb9bc04b1603362" title=" " alt="" coords="5,1585,280,1670"/>
+<area shape="rect" id="node32" href="$struct_catch_1_1_string_maker_3_01_t_0f_s_z_0e_4.html#a3698cea2c24d8649ec9ecb5fa679eeb7" title=" " alt="" coords="70,1695,215,1736"/>
+</map>

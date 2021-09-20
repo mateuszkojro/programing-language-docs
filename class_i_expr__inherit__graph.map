@@ -1,7 +1,0 @@
-<map id="IExpr" name="IExpr">
-<area shape="rect" id="node1" title="IExpr Base class for expressions." alt="" coords="199,175,289,311"/>
-<area shape="rect" id="node3" href="$class_expr_number.html" title="Literal numeric expression." alt="" coords="5,366,144,502"/>
-<area shape="rect" id="node4" href="$class_expr_operation.html" title="Mathematical operation (+, &#45;, ==, ...)" alt="" coords="169,359,319,509"/>
-<area shape="rect" id="node5" href="$class_expr_variable.html" title="Usage of existing variable." alt="" coords="343,366,483,502"/>
-<area shape="rect" id="node2" href="$class_i_statment.html" title="Base class for all possible statments in the language." alt="" coords="183,5,305,127"/>
-</map>
