@@ -1,0 +1,8 @@
+<map id="Null::Null" name="Null::Null">
+<area shape="rect" id="node1" title=" " alt="" coords="477,31,560,57"/>
+<area shape="rect" id="node2" href="$class_null.html#af0d887ca06ad72b4811d71b2bec2f018" title=" " alt="" coords="339,5,429,32"/>
+<area shape="rect" id="node3" href="$class_null.html#a7e65721f07e1c319495f82439f98dab6" title="Function uesed to evaluate statment in the scope." alt="" coords="342,56,426,83"/>
+<area shape="rect" id="node4" href="$class_block.html#a6410fa3655af7eb5ee7e1d474745d40f" title="Evaluates all statment in block in current scope." alt="" coords="196,56,291,83"/>
+<area shape="rect" id="node5" href="$class_conditional.html#ad5e0729431c9cd0f7e480e605e564800" title="Evaluates all the statments in either true or false block depending on evaluation of condition (all i..." alt="" coords="11,31,143,57"/>
+<area shape="rect" id="node6" href="$class_block.html#a1e977192ac764e320c32806ef0db3572" title=" " alt="" coords="5,81,148,108"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="IValue" name="IValue">
+<area shape="rect" id="node1" title="Base class for all possible evaluation results." alt="" coords="243,5,347,141"/>
+<area shape="rect" id="node2" href="$class_error_statment.html" title="Error value created when there is an error while evaluation." alt="" coords="5,248,144,399"/>
+<area shape="rect" id="node3" href="$class_matrix.html" title=" " alt="" coords="169,189,293,457"/>
+<area shape="rect" id="node4" href="$class_null.html" title="Null value." alt="" coords="317,241,401,406"/>
+<area shape="rect" id="node5" href="$class_number.html" title="Repersentation of a number in whole language." alt="" coords="425,211,549,435"/>
+</map>
