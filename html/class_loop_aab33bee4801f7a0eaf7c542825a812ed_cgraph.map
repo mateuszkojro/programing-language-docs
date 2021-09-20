@@ -1,5 +1,0 @@
-<map id="Loop::eval" name="Loop::eval">
-<area shape="rect" id="node1" title="Evaluates all statments in block as long as condition is true." alt="" coords="5,31,95,57"/>
-<area shape="rect" id="node2" href="$class_i_statment.html#a025b03bf014221e27a23db0f0356120e" title="Function uesed to evaluate statment in the scope." alt="" coords="145,5,267,32"/>
-<area shape="rect" id="node3" href="$class_i_value.html#a11752020f2da050ed24e5dc6e652f616" title="Gettet for type of Value." alt="" coords="143,56,269,83"/>
-</map>

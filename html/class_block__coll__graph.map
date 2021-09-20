@@ -1,4 +1,0 @@
-<map id="Block" name="Block">
-<area shape="rect" id="node1" title="Code blocks &#45; scopes Always evaluate to the last statment in them for example:" alt="" coords="5,189,129,369"/>
-<area shape="rect" id="node2" href="$class_i_statment.html" title="Base class for all possible statments in the language." alt="" coords="6,5,129,141"/>
-</map>

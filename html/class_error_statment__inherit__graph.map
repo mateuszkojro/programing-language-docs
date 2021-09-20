@@ -1,5 +1,0 @@
-<map id="ErrorStatment" name="ErrorStatment">
-<area shape="rect" id="node1" title="Error value created when there is an error while evaluation." alt="" coords="65,189,204,340"/>
-<area shape="rect" id="node2" href="$class_i_statment.html" title="Base class for all possible statments in the language." alt="" coords="5,5,128,141"/>
-<area shape="rect" id="node3" href="$class_i_value.html" title="Base class for all possible evaluation results." alt="" coords="152,5,256,141"/>
-</map>

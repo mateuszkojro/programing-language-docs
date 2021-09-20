@@ -1,4 +1,0 @@
-<map id="IValue::value" name="IValue::value">
-<area shape="rect" id="node1" title="Every value needs to evaluate to double for now later this will be changed to matrix." alt="" coords="204,5,311,32"/>
-<area shape="rect" id="node2" href="$class_expr_operation.html#a7fe38971df6d2ed029348db296eca901" title="Evaluates to operation performed on two operands." alt="" coords="5,5,156,32"/>
-</map>

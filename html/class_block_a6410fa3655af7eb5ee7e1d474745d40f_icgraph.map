@@ -1,5 +1,0 @@
-<map id="Block::eval" name="Block::eval">
-<area shape="rect" id="node1" title="Evaluates all statment in block in current scope." alt="" coords="196,31,291,57"/>
-<area shape="rect" id="node2" href="$class_conditional.html#ad5e0729431c9cd0f7e480e605e564800" title="Evaluates all the statments in either true or false block depending on evaluation of condition (all i..." alt="" coords="11,5,143,32"/>
-<area shape="rect" id="node3" href="$class_block.html#a1e977192ac764e320c32806ef0db3572" title=" " alt="" coords="5,56,148,83"/>
-</map>

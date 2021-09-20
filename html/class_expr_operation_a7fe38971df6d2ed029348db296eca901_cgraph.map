@@ -1,6 +1,0 @@
-<map id="ExprOperation::eval" name="ExprOperation::eval">
-<area shape="rect" id="node1" title="Evaluates to operation performed on two operands." alt="" coords="5,56,156,83"/>
-<area shape="rect" id="node2" href="$class_i_statment.html#a025b03bf014221e27a23db0f0356120e" title="Function uesed to evaluate statment in the scope." alt="" coords="204,5,327,32"/>
-<area shape="rect" id="node3" href="$class_operator.html#a8482501bcde3a41c370d25a486309310" title="Getter for the operator type." alt="" coords="207,56,323,83"/>
-<area shape="rect" id="node4" href="$class_i_value.html#aa579a7bf2d016ade086abedb96f1abcb" title="Every value needs to evaluate to double for now later this will be changed to matrix." alt="" coords="212,107,319,133"/>
-</map>

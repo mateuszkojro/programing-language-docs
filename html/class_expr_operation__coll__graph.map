@@ -1,5 +1,0 @@
-<map id="ExprOperation" name="ExprOperation">
-<area shape="rect" id="node1" title="Mathematical operation (+, &#45;, ==, ...)" alt="" coords="5,388,156,553"/>
-<area shape="rect" id="node2" href="$class_i_expr.html" title="IExpr Base class for expressions." alt="" coords="35,189,126,340"/>
-<area shape="rect" id="node3" href="$class_i_statment.html" title="Base class for all possible statments in the language." alt="" coords="19,5,142,141"/>
-</map>
